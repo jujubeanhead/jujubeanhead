@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jujubeanhead
+- 👋 Hi, my name is Julie
 - 👀 I’m interested in coding for websites and games!
 - 🌱 I’m currently learning HTML, CSS, and other languages
 - 💞️ I’m looking to collaborate on games in the future!
